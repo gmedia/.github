@@ -3,10 +3,10 @@
 This page explains where to send what. Picking the right channel is the fastest
 way to get an answer.
 
-GitHub is where GMEDIA's **open-source projects** are developed. It is not a
-channel for GMEDIA customer or service support.
+GitHub is where GMEDIA develops and shares **public engineering projects**. It is
+not a channel for GMEDIA customer or service support.
 
-## Bug in a GMEDIA open-source project
+## Bug in a GMEDIA project
 
 Open an issue in that project's own repository, not here. Include reproduction
 steps, what you expected, and what actually happened.
@@ -49,6 +49,6 @@ pointer back to this page.
 
 ## Response expectations
 
-These are open-source projects maintained alongside other work. Issues and pull
+These are public projects maintained alongside other work. Issues and pull
 requests are reviewed as maintainer time allows, and we do not offer a response
 time guarantee on GitHub. Clear, reproducible reports get handled faster.

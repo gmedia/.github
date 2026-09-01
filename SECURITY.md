@@ -27,9 +27,8 @@ be routed to the engineering team responsible for the repository. Please state
 that the message concerns a security vulnerability, and do not include the
 technical details until you are in contact with that team.
 
-GMEDIA does not currently operate a dedicated public security mailbox. If you
-see an address presented as one, verify it against
-<https://gmedia.id> before sending anything sensitive.
+If you encounter an address presented as a GMEDIA security contact, verify it
+against <https://gmedia.id> before sending anything sensitive.
 
 ## What to include
 

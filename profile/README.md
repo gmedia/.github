@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/gmedia/.github/main/profile/assets/banner.svg" alt="GMEDIA Engineering — Infrastructure, Developer Platforms, Security, Open Source" width="100%">
+<img src="https://raw.githubusercontent.com/gmedia/.github/main/profile/assets/banner.svg" alt="GMEDIA Digital Solution — Infrastructure, Developer Platforms, Security, Open Source" width="100%">
 
-# GMEDIA Engineering
+# GMEDIA Digital Solution
 
 **Building open technology for real-world problems.**
 
@@ -23,9 +23,8 @@ running application.
 **Security Engineering** — Vulnerability assessment tooling and the security
 practices that go with operating real systems.
 
-**Products & Business Systems** — Software for concrete operational problems:
-resource planning, financial analysis, and the internal systems other teams
-depend on.
+**Products & Business Systems** — Software for concrete operational and business
+problems, including resource planning and financial analysis.
 
 **Applied Engineering** — Prototypes and research we keep in the open when the
 work is more useful shared than shelved.
@@ -47,8 +46,9 @@ It is aimed at people who should not have to hand-configure a VPS, a reverse
 proxy, and TLS before they can ship: students, beginner developers, educators,
 communities, and small teams.
 
-Sakala is an early-stage project. Its repositories are foundations under active
-development, not production systems.
+Sakala is under active development, and maturity varies across components. Check
+each repository's own documentation for current capabilities and deployment
+guidance.
 
 - [sakala-console](https://github.com/gmedia/sakala-console) — SvelteKit dashboard
 - [sakala-api](https://github.com/gmedia/sakala-api) — Laravel control plane
@@ -90,8 +90,9 @@ employees, and organizational branches.
 
 [gmedia/erp](https://github.com/gmedia/erp)
 
-> Licensing varies per repository. Check the `LICENSE` file in each project
-> before reusing code.
+> Licensing varies by repository. Public source availability does not by itself
+> grant reuse rights — check each repository's licence and terms before using or
+> redistributing its code.
 
 ---
 

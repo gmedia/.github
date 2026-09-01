@@ -43,7 +43,12 @@ Changes here are visible on every repository that relies on the defaults, and
 conservative: state only what can be verified, and prefer omitting a claim over
 approximating it.
 
-The banner is a self-contained SVG with the official GMEDIA logo embedded — no
-external fonts, scripts, or remote assets. The logo is used in its approved
-single-tone form on the approved blue background and must not be recoloured,
-rescaled out of proportion, or otherwise altered.
+The banner is a self-contained SVG with an official GMEDIA logo asset embedded —
+no external fonts, scripts, or remote assets.
+
+It follows the internal **GMEDIA Brand Identity** guideline, which permits the
+single-tone logo on a blue-gradient background, and prohibits altering the
+logo's colour, proportion, layout, or position, or adding outlines and effects.
+The palette is taken from that same guideline: USAFA Blue `#02539E` and Gamboge
+`#EF9D0F`, with Montserrat as the primary typeface. Keep the logo asset itself
+unmodified when updating the banner.
