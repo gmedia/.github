@@ -62,10 +62,9 @@ and the timing of any public disclosure.
 Please keep the report private until a fix is available and disclosure has been
 coordinated with us.
 
-We do not offer a bug bounty, and we do not publish guaranteed response or
-remediation timelines. Projects in this organization are at different stages of
-maturity — some are explicitly early-stage foundations rather than production
-systems — and we would rather set no expectation than one we cannot meet
+This policy does not establish a bug bounty, and it does not guarantee response
+or remediation timelines. Projects in this organization are at different stages
+of maturity, and we would rather set no expectation than one we cannot meet
 consistently.
 
 If you would like credit for a report, tell us how you want to be named. If you

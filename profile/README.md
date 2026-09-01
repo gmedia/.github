@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/gmedia/.github/main/profile/assets/banner.svg" alt="GMEDIA Digital Solution — Infrastructure, Developer Platforms, Security, Open Source" width="100%">
+<img src="https://raw.githubusercontent.com/gmedia/.github/main/profile/assets/banner.svg" alt="GMEDIA Digital Solution — Infrastructure, Developer Platforms, Security, Applied Technology" width="100%">
 
 # GMEDIA Digital Solution
 
-**Building open technology for real-world problems.**
+**Building technology for real-world problems.**
 
 **GMEDIA — PT Media Sarana Data** is an Indonesian technology company based in
 Yogyakarta, working across connectivity, infrastructure, software, and applied

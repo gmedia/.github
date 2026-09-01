@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
   <title id="t">GMEDIA Digital Solution</title>
-  <desc id="d">GMEDIA Digital Solution — Infrastructure, Developer Platforms, Security, Open Source.</desc>
+  <desc id="d">GMEDIA Digital Solution — Infrastructure, Developer Platforms, Security, Applied Technology.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -65,5 +65,5 @@
 
   <text x="80" y="318" fill="#FFFFFF" fill-opacity="0.82"
         font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-        font-size="23" font-weight="500" letter-spacing="1.1">Infrastructure · Developer Platforms · Security · Open Source</text>
+        font-size="23" font-weight="500" letter-spacing="1.1">Infrastructure · Developer Platforms · Security · Applied Technology</text>
 </svg>
