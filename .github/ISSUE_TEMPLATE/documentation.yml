@@ -1,0 +1,44 @@
+name: Documentation
+description: Report something missing, unclear, or wrong in the documentation
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Documentation problems are worth reporting. If something was confusing on
+        the way in, it will be confusing for the next person too.
+
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: The page, file, or section this concerns. A link or path is ideal.
+      placeholder: README.md — "Quickstart", or https://sakala.dev/docs/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem
+      description: >-
+        Is it missing, out of date, inaccurate, or just unclear? If you followed
+        the instructions and they did not work, say what happened instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: What should it say? A rough draft is fine — it does not need to be polished wording.
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Your background with the project, what you were trying to achieve, or related pages with the same issue.
+    validations:
+      required: false

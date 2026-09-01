@@ -1,0 +1,100 @@
+name: Bug report
+description: Report a reproducible problem in a GMEDIA project
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a report.
+
+        **Do not report security vulnerabilities here.** Public issues expose the
+        problem before a fix exists. Follow the
+        [security policy](https://github.com/gmedia/.github/blob/main/SECURITY.md)
+        instead.
+
+        Please remove credentials, tokens, API keys, internal hostnames, and
+        personal or customer data from anything you paste below.
+
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing open and closed issues and did not find a duplicate.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true
+
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which project or component is affected? Skip this if the repository is obvious.
+      placeholder: sakala-agent
+    validations:
+      required: false
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A clear description of the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: How can someone else trigger this, starting from a clean state?
+      placeholder: |
+        1. Run `...`
+        2. Open `...`
+        3. Observe `...`
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Version and environment
+      description: >-
+        Release, tag, or commit, plus anything relevant about where it runs —
+        operating system, runtime version, container versions, architecture.
+      placeholder: |
+        Version: v0.3.1 (commit abc1234)
+        OS: Ubuntu 24.04 (x86_64)
+        Runtime: Node.js 22.12
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or output
+      description: Relevant logs, stack traces, or error output. Secrets removed.
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, a suspected cause, related issues, or anything else useful.
+    validations:
+      required: false

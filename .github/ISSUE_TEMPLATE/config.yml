@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/gmedia/.github/blob/main/SECURITY.md
+    about: Do not open a public issue. Read the security policy for how to report privately.
+
+  - name: Question or help using a project
+    url: https://github.com/gmedia/.github/blob/main/SUPPORT.md
+    about: Where to ask what, including project questions and discussions.
+
+  - name: Contribution guidelines
+    url: https://github.com/gmedia/.github/blob/main/CONTRIBUTING.md
+    about: How to report bugs, propose changes, and open a pull request.
+
+  - name: GMEDIA services and customer support
+    url: https://gmedia.id/contact
+    about: Billing, connectivity, and commercial service matters are not handled on GitHub.
